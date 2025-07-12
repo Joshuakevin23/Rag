@@ -1,0 +1,11 @@
+langchain_core
+python-dotenv
+streamlit
+langchain_community
+bs4
+pypdf
+chromadb
+beautifulsoup4
+langchainhub
+PyPDF2
+langchain-groq
